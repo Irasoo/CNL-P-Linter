@@ -1,2 +1,2 @@
-# CNL-P-Linter
+# CNL-P Project
 You can download the code zip in url: ....
